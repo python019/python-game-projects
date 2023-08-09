@@ -1,1 +1,10 @@
-## # Simple Snake Game in Python 3 for RANDOM, TIME, Turtle themes
+# Sudoku Game In Python
+
+
+### run:
+
+* python gui.py
+
+### Mac
+
+* python3 gui.py
