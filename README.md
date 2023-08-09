@@ -1,1 +1,1 @@
-## # Simple Snake Game in Python 3 for RANDOM, TIME, turtle themes
+## # Simple Snake Game in Python 3 for RANDOM, TIME, Turtle themes
