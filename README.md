@@ -1,10 +1,3 @@
-# Sudoku Game In Python
+# Tetris Game In Python
 
-
-### run:
-
-* python gui.py
-
-### Mac
-
-* python3 gui.py
+<img src="resources/tetris.png">
