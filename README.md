@@ -1,3 +1,3 @@
-# Tetris Game In Python
+# Tic Tac Toe Game In Python
 
-<img src="resources/tetris.png">
+<img src="resources/base.png">
